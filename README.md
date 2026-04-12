@@ -2968,30 +2968,13 @@ This project is developed by the following institutions:
 ## 🌟 Star History <!-- omit in toc -->
 
 
-<table align="center">
-    <p align="center">
-      <img src="assets/star-history-25-09-02.png"/>
-    </p>
-</table>
-
-<!-- <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="
-      https://api.star-history.com/svg?repos=OpenBMB/MiniCPM-o&type=Date&theme=dark
-    "
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="
-      https://api.star-history.com/svg?repos=OpenBMB/MiniCPM-o&type=Date
-    "
-  />
-  <img
-    alt="Star History Chart"
-    src="https://api.star-history.com/svg?repos=OpenBMB/MiniCPM-o&type=Date"
-  />
-</picture> -->
+<a href="https://www.star-history.com/?repos=OpenBMB%2FMiniCPM-o&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=OpenBMB/MiniCPM-o&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=OpenBMB/MiniCPM-o&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=OpenBMB/MiniCPM-o&type=date&legend=top-left" />
+ </picture>
+</a>
 
 ## Key Techniques and Other Multimodal Projects <!-- omit in toc -->
 
